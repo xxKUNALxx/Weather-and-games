@@ -61,6 +61,7 @@ Games Included:
   The program reads initial settings (if any) from a file named "data.txt."
   You can customize game settings by editing "data.txt," where the first line represents a temporary value, and the second line represents a condition.
   To exit the program, choose option 2 when prompted.
+
 Running the Program:
   Compile the code using a C++ compiler.
   Execute the compiled program.
